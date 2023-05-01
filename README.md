@@ -10,10 +10,9 @@ Ajouter les composants dans votre application Vue.
 
 ## Utilisation
 Assurez-vous que le serveur de développement est en cours d'exécution en exécutant la commande suivante : npm run serve
-Ouvrez votre navigateur et accédez à l'URL suivante : http://localhost:8080/
-L'application se chargera et vous proposera une activité aléatoire à faire.
+Ouvrez votre navigateur et accédez à l'URL suivante : http://localhost:8080/ L'application se chargera et vous proposera des activités aléatoires.
 
 ## Fonctionnalités
-L'application propose des activités aléatoires à l'utilisateur.
+L'utilisateur pourra obtenir des activités aléatoire en appuyant sur le bouton associé.
 L'utilisateur peut également enregistrer et retirer les activités qui l'intéressent dans une liste de favoris.
 L'application affiche une description détaillée de chaque activité sélectionnée.
